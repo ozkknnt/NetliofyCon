@@ -58,6 +58,8 @@ export default {
   build: {},
 
   router: {
-    base: '/blog/'
+    base: '/cryptoblog/'
   },
+
+  target: 'static',
 }

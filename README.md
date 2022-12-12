@@ -20,3 +20,6 @@ npm create nuxt-app blog
 
 ![](2022-12-09-13-55-35.png)
 
+
+# Netlifyへのデプロイ方法  
+https://nuxtjs.org/deployments/netlify/#how-to-deploy-on-netlify-
